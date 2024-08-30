@@ -1,4 +1,4 @@
- cd# JScript
+cd# JScript
 Code repo for JS
 
 
